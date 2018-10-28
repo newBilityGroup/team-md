@@ -10,4 +10,4 @@
 * [GitHub团队项目合作流程](https://www.cnblogs.com/schaepher/p/4933873.html)
 
 ## 其他
-* [我们直播平台的需求分析模板](excellenTV/)
+* [我们直播平台的需求分析模板](https://github.com/newBilityGroup/team-md/tree/master/excellentTV)
